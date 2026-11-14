@@ -1,11 +1,7 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
-
-**Computer Science Student & Full-Stack Developer**
-
-[![Email](https://img.shields.io/badge/Email-your.email%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Muhammad+Hafiz+%F0%9F%91%8B;Computer+Science+Student+%26+Developer;Full-Stack+Web+%26+Software+Engineer" alt="Typing SVG" />
 
 </div>
 
@@ -13,7 +9,11 @@
 
 ### 💻 About Me
 
-I am a Computer Science student and developer with hands-on experience in full-stack web development, backend database integration, and software engineering. Passionate about clean logic, robust systems, and practical end-to-end applications. 🚀
+I am a Computer Science undergraduate at **Universiti Teknologi MARA (UiTM)** with a strong focus on full-stack web development, backend database integration, and end-to-end software architecture. I enjoy building practical systems that combine clean logic, real-time verification, and automated decision support.
+
+- 🔭 **Currently working on:** Web-Based Student Engagement & Coursework Management System (integrating WebRTC, spatial geofencing, and a Decision Support System).
+- 🌱 **Exploring:** Modern React/Next.js ecosystems, UI/UX system redesigns, and mobile computing.
+- 💬 **Ask me about:** Java, Jakarta Servlets/JSP, PHP, MySQL, React.js, or compiler design.
 
 ---
 
@@ -21,18 +21,31 @@ I am a Computer Science student and developer with hands-on experience in full-s
 
 <div align="center">
 
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /> | <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" /> | <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" /> | <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /> | <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" /> | <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" /> |
-| <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /> | <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" /> | <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" /> | <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" /> | <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /> |
-| <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /> | <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" /> | <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" /> | <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /> | <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" /> | <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" /> |
+#### Languages
+<img src="https://skillicons.dev/icons?i=java,cpp,py,php,js,html,css,mysql&perline=8" alt="Languages" />
+
+#### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs&perline=8" alt="Frameworks" />
+
+#### Developer Tools & Environments
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,tomcat,postman,figma,linux&perline=8" alt="Tools" />
 
 </div>
 
 ---
 
-### 🚀 Featured Projects & Experience
+### 🚀 Featured Projects
 
-* **Project Name 1** — Brief description of the tech stack used and the core problem the system solves.
-* **Project Name 2** — Brief description of your architecture, features, or key implementation details.
-* **Project Name 3** — Brief description of another notable project or internship contribution.
+- **Student Engagement & Coursework Management System** — Full-stack web platform engineered with WebRTC live camera verification, spatial geofencing, and an automated Decision Support System (DSS) for academic tracking.
+- **Custom Malay-Language Compiler** — Built a lexical analyzer and parser in Java using SableCC with localized Malay programming keywords and syntax rules.
+- **Enterprise Web Applications (Jakarta Servlet & JSP)** — Designed and deployed dynamic database-driven web systems backed by Apache Tomcat and MySQL.
+- **Public Gold UI/UX Redesign Proposal** — Conducted root-cause usability analysis and crafted modern interface prototypes to streamline user workflows.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
